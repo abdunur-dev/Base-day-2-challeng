@@ -1,4 +1,4 @@
-# ⚡ Base OnchainKit App
+hi# ⚡ Base OnchainKit App
 
 A modern **Next.js frontend** powered by **OnchainKit** and deployed on **Vercel** — enabling seamless interaction with the **Base blockchain**.  
 This project demonstrates how to build a Web3-ready frontend with analytics, global styles, and provider integration.
@@ -70,32 +70,6 @@ Push your project to GitHub
 Go to Vercel
 
 Import the repo and hit Deploy
-
-
-
----
-
-🧠 Environment Variables (Optional)
-
-If you integrate blockchain APIs, add these to .env.local:
-
-NEXT_PUBLIC_BASE_API_KEY=your_api_key_here
-NEXT_PUBLIC_WALLET_CONNECT_ID=your_walletconnect_id_here
-
-
----
-
-💙 Credits
-
-Built using Next.js
-
-Powered by Base
-
-Onchain interactions by OnchainKit
-
-Deployed with Vercel
-
-
 
 ---
 
