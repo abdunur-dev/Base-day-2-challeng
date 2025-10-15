@@ -42,8 +42,8 @@ This project demonstrates how to build a Web3-ready frontend with analytics, glo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/abdunur-dev/Base-day-2-challeng.git
+   cd Base-day-2-challeng.git
 
 2. Install Dependencies
 
