@@ -57,20 +57,6 @@ npm run dev
 
 4. Open http://localhost:3000 🚀
 
-
-
----
-
-🔗 Deployment
-
-Easiest way to deploy:
-
-Push your project to GitHub
-
-Go to Vercel
-
-Import the repo and hit Deploy
-
 ---
 
 📜 License
