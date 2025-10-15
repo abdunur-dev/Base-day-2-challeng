@@ -1,4 +1,4 @@
-# ⚡ Base OnchainKit App
+hi# ⚡ Base OnchainKit App
 
 A modern **Next.js frontend** powered by **OnchainKit** and deployed on **Vercel** — enabling seamless interaction with the **Base blockchain**.  
 This project demonstrates how to build a Web3-ready frontend with analytics, global styles, and provider integration.
